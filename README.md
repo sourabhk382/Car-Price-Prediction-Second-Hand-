@@ -11,8 +11,6 @@ Methodology
 - Feature selection, feature correlation, normalisation. 
 - Model fit - linear, KNRegressor, decision tree, random forest, neural network.
 
-Applications - cars24, carwale, zigwheels, droom, ola cars. 
-
 Data 
 - Name 
 - Location 
